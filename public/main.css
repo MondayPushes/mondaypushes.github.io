@@ -33,6 +33,11 @@ div.vod-list-item a:hover {
     text-decoration: none;
 }
 
+a.vod-list-item-image-container {
+    position: relative;
+    display: inline-block;
+}
+
 div.vod-list-item a.external[href]:after {
     content: none;
 }
