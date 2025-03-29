@@ -28,6 +28,11 @@ div.vod-list#vod-list-highlight {
 	grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
 }
 
+div.vod-list-item a {
+    position: relative;
+    display: inline-block;
+}
+
 div.vod-list-item a,
 div.vod-list-item a:hover {
     text-decoration: none;
