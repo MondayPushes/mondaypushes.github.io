@@ -46,6 +46,7 @@ div.vod-list-item a img {
     width: 100%;
     aspect-ratio: 16 / 9;
     display: block;
+	object-fit: contain;
 }
 
 span.vod-list-item-duration {
