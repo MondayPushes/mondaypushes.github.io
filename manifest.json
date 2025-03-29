@@ -114,6 +114,16 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/robots.txt",
+      "output": {
+        "resource": {
+          "relative_path": "robots.txt"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/soop.svg",
       "output": {
         "resource": {
