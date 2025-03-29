@@ -75,7 +75,7 @@ span.vod-list-item-title {
     font-weight: bold;
     line-height: 1.4;
     min-height: 2.8em;
-    margin: 4px 0;
+    margin: 2px 0 4px;
 }
 
 span.vod-list-item-date {
