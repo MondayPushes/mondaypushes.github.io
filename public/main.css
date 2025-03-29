@@ -35,6 +35,8 @@ div.vod-list-item a:hover {
 
 a.vod-list-item-image-container {
     position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
     display: inline-block;
 	background-color: #2e3033;
 }
@@ -45,7 +47,7 @@ div.vod-list-item a.external[href]:after {
 
 div.vod-list-item a img {
     width: 100%;
-    aspect-ratio: 16 / 9;
+    height: 100%;
     display: block;
 	object-fit: contain;
 }
