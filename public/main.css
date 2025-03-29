@@ -43,6 +43,21 @@ div.vod-list-item a img {
     display: block;
 }
 
+span.vod-list-item-duration {
+	display: block;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 4px 8px;
+    border-radius: 4px;
+    pointer-events: none;
+    user-select: none;
+}
+
 span.vod-list-item-title {
     display: -webkit-box;
     -webkit-line-clamp: 2;
