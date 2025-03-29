@@ -14,16 +14,6 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/chzzk_video.png",
-      "output": {
-        "resource": {
-          "relative_path": "chzzk_video.png"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Resource",
       "source_relative_path": "docs/discord.svg",
       "output": {
         "resource": {
