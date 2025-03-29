@@ -1,0 +1,307 @@
+{
+  "source_base_path": "D:/Users/COMPLETE.PC/Documents/MondayPushes/mondaypushes.github.io/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/chzzk.svg",
+      "output": {
+        "resource": {
+          "relative_path": "chzzk.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/chzzk_video.png",
+      "output": {
+        "resource": {
+          "relative_path": "chzzk_video.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/discord.svg",
+      "output": {
+        "resource": {
+          "relative_path": "discord.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/facebook.svg",
+      "output": {
+        "resource": {
+          "relative_path": "facebook.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/instagram.svg",
+      "output": {
+        "resource": {
+          "relative_path": "instagram.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/kakaostory.svg",
+      "output": {
+        "resource": {
+          "relative_path": "kakaostory.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/namuwiki.svg",
+      "output": {
+        "resource": {
+          "relative_path": "namuwiki.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/namuwiki_grayscale.svg",
+      "output": {
+        "resource": {
+          "relative_path": "namuwiki_grayscale.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/navercafe.svg",
+      "output": {
+        "resource": {
+          "relative_path": "navercafe.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/navercafe_grayscale.svg",
+      "output": {
+        "resource": {
+          "relative_path": "navercafe_grayscale.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/soop.svg",
+      "output": {
+        "resource": {
+          "relative_path": "soop.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/tgd.svg",
+      "output": {
+        "resource": {
+          "relative_path": "tgd.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-02-10.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-02-10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-02-17.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-02-17.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-02-24.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-02-24.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-03.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-03.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-10.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-10.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-17.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-17.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-20.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-20.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-21.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-21.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-22.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-22.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-23.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-23.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/vod/2025-03-24.md",
+      "output": {
+        ".html": {
+          "relative_path": "vod/2025-03-24.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/vod/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "vod/toc.html"
+        },
+        ".json": {
+          "relative_path": "vod/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/x.svg",
+      "output": {
+        "resource": {
+          "relative_path": "x.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/youtube.svg",
+      "output": {
+        "resource": {
+          "relative_path": "youtube.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/youtube_grayscale.svg",
+      "output": {
+        "resource": {
+          "relative_path": "youtube_grayscale.svg"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
